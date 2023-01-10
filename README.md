@@ -1,2 +1,2 @@
 # Kennect Technologies
-Technical Assessement round 
+Technical Assessment round 
