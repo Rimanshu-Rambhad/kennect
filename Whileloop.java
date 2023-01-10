@@ -7,7 +7,7 @@ public class Whileloop {
 		int z=1;
 		while(z<=10)
 		{
-			System.out.println("Eager to work in a reputed organization like yours");
+			System.out.println("Eager to work in a reputed organization like yours: Kennect Technologies");
 			z++;
 		}
 		
