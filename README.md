@@ -1,2 +1,2 @@
 # kennect
-Assessement
+Technical Assessement round 
